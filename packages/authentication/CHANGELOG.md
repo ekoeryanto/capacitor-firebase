@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.3.0
+
+### Minor Changes
+
+- [`fcb0f25`](https://github.com/capawesome-team/capacitor-firebase/commit/fcb0f2586ec89c6902488a5f4f183114fc15556b) ([#235](https://github.com/capawesome-team/capacitor-firebase/pull/235)): feat(ios): support Game Center Sign-In
+
+### Patch Changes
+
+- [`5c1b40b`](https://github.com/capawesome-team/capacitor-firebase/commit/5c1b40b1c840df4fa43b60d38fde8d88cc21d993) ([#246](https://github.com/capawesome-team/capacitor-firebase/pull/246)): fix(android): update Facebook Login SDK
+
 ## 1.2.0
 
 ### Minor Changes
